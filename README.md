@@ -39,7 +39,7 @@ vendorProject/
 1. Clone this repository:
    ```bash
    git clone <repository-url>
-   cd vendorProject
+   cd Vendor-Performance-Analysis
    ```
 
 2. Install required Python packages:
